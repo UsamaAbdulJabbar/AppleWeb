@@ -1,0 +1,35 @@
+
+body{
+    margin: 0;
+    padding: 0auto;
+}
+/* Navbar start here  */
+nav{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.main{
+    width: 100vw;
+    background-color: rgba(0,0,0,0.8);
+    color: white;
+    display: flex;
+    height: 50px;
+    padding: 5px;
+    align-items: center;
+    justify-content: center;
+}
+
+.navPadding{
+    padding: 20px;
+
+}
+
+a{
+    text-decoration: none;
+    color: rgba(241, 249, 253, 0.938);
+}
+
+a:hover{
+    color: white;
+}
+
+/* Navbar end here  */
